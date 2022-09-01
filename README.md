@@ -1,4 +1,4 @@
-# Web Scraping with Beautiful Soup for Data Science
+# Web Scraping with Beautiful
 * Web Scraping
 * Beautiful Soup
 * Data Extraction
